@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./mlsa_uetp.png" alt="MLSA UET Peshawar" />
 </p>
+
 # MLSA-UETP-Official Website
 ## This repository contains the source code for the official website of Microsoft Learn Student Ambassadors (MLSA) at UET Peshawar. The project is built using modern frontend technologies and follows a modular structure to ensure scalability and maintainability.
 
@@ -77,9 +78,9 @@ To set up the project locally, follow these steps:
 4. Open a pull request.
 
 ### Authors
-<img src="https://github.com/awaissaddiqui.png" alt="Awais Saddiqui" width="100" style="border-radius:50%;">
+    <img src="https://github.com/awaissaddiqui.png" alt="Awais Saddiqui" width="100" style="border-radius:50%;">
 - [**Awais Saddiqui**](https://github.com/awaissaddiqui)
-<img src="https://github.com/niharfiza125.png" alt="Fiza Nihar" width="100" style="border-radius:50%;">
+    <img src="https://github.com/niharfiza125.png" alt="Fiza Nihar" width="100" style="border-radius:50%;">
 - [**Fiza Nihar**](https://github.com/niharfiza125)
 
 ### License
