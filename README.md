@@ -80,18 +80,19 @@ To set up the project locally, follow these steps:
 ## Authors
 
 <p align="center">
-  <a href="https://github.com/awaissaddiqui" style="text-decoration: none; margin: 10px;">
+  <a href="https://github.com/awaissaddiqui" style="text-decoration: none; margin: 20px;">
     <img src="https://github.com/awaissaddiqui.png" alt="Awais Saddiqui" width="100" style="border-radius:50%;">
     <br />
     <strong>Awais Saddiqui</strong>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/niharfiza125" style="text-decoration: none; margin: 10px;">
+  <a href="https://github.com/niharfiza125" style="text-decoration: none; margin: 20px;">
     <img src="https://github.com/niharfiza125.png" alt="Fiza Nihar" width="100" style="border-radius:50%;">
     <br />
     <strong>Fiza Nihar</strong>
   </a>
 </p>
+
 
 
 ### License
