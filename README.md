@@ -79,20 +79,14 @@ To set up the project locally, follow these steps:
 
 ## Authors
 
-<p align="center">
-  <a href="https://github.com/awaissaddiqui" style="text-decoration: none; margin: 20px;">
-    <img src="https://github.com/awaissaddiqui.png" alt="Awais Saddiqui" width="100" style="border-radius:50%;">
-    <br />
-    <strong>Awais Saddiqui</strong>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/niharfiza125" style="text-decoration: none; margin: 20px;">
-    <img src="https://github.com/niharfiza125.png" alt="Fiza Nihar" width="100" style="border-radius:50%;">
-    <br />
-    <strong>Fiza Nihar</strong>
-  </a>
-</p>
-
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.upwork.com/freelancers/~011fe6ce84d3da23e7"><img src="https://avatars.githubusercontent.com/u/101595985?v=4?s=100" width="100px;" alt="Awais Saddiqui"/><br /><sub><b>Awais Saddiqui</b></sub></a><br /></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/niharfiza125"><img src="https://avatars.githubusercontent.com/u/176830976?v=4?s=100" width="100px;" alt="Fiza Nihar"/><br /><sub><b>Fiza Nihar</b></sub></a><br /></td>
+    </tr>
+</tbody>
+</table>
 
 
 ### License
