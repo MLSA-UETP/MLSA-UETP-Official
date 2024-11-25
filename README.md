@@ -38,11 +38,28 @@
 ## Project Structure
 
 The project follows a modular file structure:
+src/
+├── assets/
+│   └── react.svg         # Static assets used in the project
+├── components/
+│   └── Button.jsx        # Reusable button component
+├── features/auth/
+│   ├── Login.jsx         # Login page logic and UI
+│   └── Register.jsx      # Registration page logic and UI
+├── hooks/                # Custom hooks (if any)
+├── utils/                # Utility functions and helpers
+├── views/                # Main views for the website
+│   ├── AboutUs.jsx       # About Us page
+│   ├── Blogs.jsx         # Blog listing page
+│   ├── Footer.jsx        # Footer component
+│   ├── Home.jsx          # Homepage
+│   ├── Navbar.jsx        # Navigation bar
+│   ├── OurProgram.jsx    # Program details
+│   ├── Team.jsx          # Team members
+│   └── App.jsx           # Main app entry point
+├── index.css             # Global CSS
+└── main.jsx              # ReactDOM entry point
 
-src/ ├── assets/ │ └── react.svg # Static assets used in the project ├── components/ │ └── Button.jsx # Reusable button component ├── features/auth/ │ ├── Login.jsx # Login page logic and UI │ └── Register.jsx # Registration page logic and UI ├── hooks/ # Custom hooks (if any) ├── utils/ # Utility functions and helpers ├── views/ # Main views for the website │ ├── AboutUs.jsx # About Us page │ ├── Blogs.jsx # Blog listing page │ ├── Footer.jsx # Footer component │ ├── Home.jsx # Homepage │ ├── Navbar.jsx # Navigation bar │ ├── OurProgram.jsx # Program details │ ├── Team.jsx # Team members │ └── App.jsx # Main app entry point ├── index.css # Global CSS ├── main.jsx # ReactDOM entry point
-
-
-Root-level files include configuration files for various tools and the main `index.html`.
 
 ---
 
@@ -77,7 +94,9 @@ To set up the project locally, follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your feature:
-    ``` git checkout -b feature-name
+    ```
+     git checkout -b feature-name
+     ```
 3. Commit your changes and push the branch:
     ```bash 
     git commit -m "Description of feature"
