@@ -1,5 +1,5 @@
 # MLSA-UETP-Official Website
-
+<img src="./mlsa_uetp.png" alt="mlsa uetpeshawar" />
 ## This repository contains the source code for the official website of Microsoft Learn Student Ambassadors (MLSA) at UET Peshawar. The project is built using modern frontend technologies and follows a modular structure to ensure scalability and maintainability.
 
 ---
@@ -8,7 +8,6 @@
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
 - [Scripts](#scripts)
 - [Contributing](#contributing)
@@ -32,36 +31,6 @@
 - **Styling**: TailwindCSS
 - **Configuration**: ESLint and PostCSS for code linting and CSS processing
 - **State Management**: React Hooks
-
----
-
-## Project Structure
-
-The project follows a modular file structure:
-src/
-├── assets/
-│   └── react.svg         # Static assets used in the project
-├── components/
-│   └── Button.jsx        # Reusable button component
-├── features/auth/
-│   ├── Login.jsx         # Login page logic and UI
-│   └── Register.jsx      # Registration page logic and UI
-├── hooks/                # Custom hooks (if any)
-├── utils/                # Utility functions and helpers
-├── views/                # Main views for the website
-│   ├── AboutUs.jsx       # About Us page
-│   ├── Blogs.jsx         # Blog listing page
-│   ├── Footer.jsx        # Footer component
-│   ├── Home.jsx          # Homepage
-│   ├── Navbar.jsx        # Navigation bar
-│   ├── OurProgram.jsx    # Program details
-│   ├── Team.jsx          # Team members
-│   └── App.jsx           # Main app entry point
-├── index.css             # Global CSS
-└── main.jsx              # ReactDOM entry point
-
-
----
 
 ## Getting Started
 
